@@ -1,4 +1,4 @@
-# dnz_login-release
+# dnz_login2-release
 danke Login/Register Script von dnz Scammer.
 
 
